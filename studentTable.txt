@@ -1,0 +1,90 @@
+__________________________________________
+Student ID	:17666
+Student Name	:Jeran Ulrich
+Student Class	:Senior
+Student Major	:Mathematics
+Student GPA	:3.12
+Student Adv.	:98765
+__________________________________________
+
+__________________________________________
+Student ID	:12103
+Student Name	:Kristina McCabe
+Student Class	:Freshman
+Student Major	:Life Science
+Student GPA	:3.12
+Student Adv.	:62011
+__________________________________________
+
+__________________________________________
+Student ID	:16022
+Student Name	:Felicia Wong
+Student Class	:Sophomore
+Student Major	:Business
+Student GPA	:3.6
+Student Adv.	:65423
+__________________________________________
+
+__________________________________________
+Student ID	:16542
+Student Name	:Chris Elliott
+Student Class	:Senior
+Student Major	:Health Science
+Student GPA	:3.5
+Student Adv.	:123
+__________________________________________
+
+__________________________________________
+Student ID	:33213
+Student Name	:Max Darrow
+Student Class	:Junior
+Student Major	:Chemistry
+Student GPA	:3.65
+Student Adv.	:62011
+__________________________________________
+
+__________________________________________
+Student ID	:27597
+Student Name	:Joey Sopo
+Student Class	:Sophomore
+Student Major	:Strategic Communications
+Student GPA	:2.01
+Student Adv.	:65423
+__________________________________________
+
+__________________________________________
+Student ID	:22411
+Student Name	:Nick Wagner
+Student Class	:Sophomore
+Student Major	:Dance Performance
+Student GPA	:3.84
+Student Adv.	:86753
+__________________________________________
+
+__________________________________________
+Student ID	:24401
+Student Name	:Chris Imm
+Student Class	:Sophomore
+Student Major	:Electrical Engineering
+Student GPA	:3.44
+Student Adv.	:98765
+__________________________________________
+
+__________________________________________
+Student ID	:30001
+Student Name	:Tom Clancy
+Student Class	:Junior
+Student Major	:Biology
+Student GPA	:3.91
+Student Adv.	:62011
+__________________________________________
+
+__________________________________________
+Student ID	:43201
+Student Name	:Meghan Arwell
+Student Class	:Junior
+Student Major	:Musical Performance
+Student GPA	:3.84
+Student Adv.	:86753
+__________________________________________
+

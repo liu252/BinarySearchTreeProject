@@ -1,0 +1,44 @@
+_________________________________________________
+Faculty ID	 		 :98765
+Faculty Name			 :Mark Gardner
+Faculty Level			 :Teacher
+Faculty Department	         :Engineering
+-------------------------------------------------
+List of Student(s) ID reporting to this faculty  
+-------------------------------------------------
+_________________________________________________
+
+
+_________________________________________________
+Faculty ID	 		 :65423
+Faculty Name			 :Bryce Anderson
+Faculty Level			 :Dean
+Faculty Department	         :Business
+-------------------------------------------------
+List of Student(s) ID reporting to this faculty  
+-------------------------------------------------
+_________________________________________________
+
+
+_________________________________________________
+Faculty ID	 		 :62011
+Faculty Name			 :Tim Lee
+Faculty Level			 :Janitor
+Faculty Department	         :Janitor Studies
+-------------------------------------------------
+List of Student(s) ID reporting to this faculty  
+-------------------------------------------------
+_________________________________________________
+
+
+_________________________________________________
+Faculty ID	 		 :86753
+Faculty Name			 :Annie Danes
+Faculty Level			 :Teacher
+Faculty Department	         :Art Performance
+-------------------------------------------------
+List of Student(s) ID reporting to this faculty  
+-------------------------------------------------
+_________________________________________________
+
+
